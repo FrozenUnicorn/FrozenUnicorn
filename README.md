@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrozenUnicorn, a newbie just starting my tech journey.
-- 👀 I’m interested in the tech fields of Data Analytics, UI/UX Design, and Technical Writing.
-- 🌱 I’m currently learning Data Analytics, and hope to progress in other fields after gaining considerable skills and experiences in DA.
-- 💞️ I’m looking to collaborate on projects, and learn about boot camps and opportunities in my chosen fields.
+- 👀 I’m interested in the tech fields of UI/UX Design, and Technical Writing.
+- 🌱 I’m currently learning both UI/UX Design and Technical Writing, and hope to explore other tech fields after gaining considerable skills and practical experiences in UI & TW.
+- 💞️ I’m looking to collaborate on projects and learn about boot camps and opportunities in my chosen fields.
 - 📫 How to reach me: mariah.sanwi@gmail.com.
 
 <!---
